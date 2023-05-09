@@ -1,8 +1,3 @@
-
-# %env OPENAI_API_KEY=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
-
-"""##### import the relevant libraries"""
-
 import streamlit as st
 import openai
 import os
